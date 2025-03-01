@@ -1,0 +1,501 @@
+profile_id,user_id,gender,age,city,height,interests,children,occupation,education_level,looking_for,frequency_of_use,swipe_count
+1,1,Other,34,Ahmedabad,184.2,Technology,3,Doctor,High School,Marriage,Rarely,486
+2,2,Other,50,Ahmedabad,188.2,Travel,2,Artist,High School,Casual Dating,Weekly,28
+3,3,Female,59,Lucknow,186.4,Travel,1,Data Analyst,High School,Friendship,Rarely,146
+4,4,Female,39,Delhi,160.7,Music,0,Businessman,Master,Marriage,Monthly,500
+5,5,Female,34,Chennai,161.6,Music,2,Data Scientist,High School,Casual Dating,Weekly,245
+6,6,Other,59,Hyderabad,173.2,Travel,3,Teacher,High School,Marriage,Rarely,15
+7,7,Male,54,Ahmedabad,173.8,Sports,3,Lawyer,Bachelor,Marriage,Weekly,343
+8,8,Female,28,Bangalore,171.6,Sports,0,Data Analyst,Bachelor,Long-term Relationship,Rarely,294
+9,9,Male,51,Chennai,184.9,Movies,2,Artist,PhD,Casual Dating,Daily,441
+10,10,Male,30,Kolkata,161.7,Technology,1,Lawyer,Diploma,Long-term Relationship,Monthly,60
+11,11,Female,25,Bangalore,161.6,Books,1,Lawyer,Diploma,Casual Dating,Weekly,185
+12,12,Other,60,Lucknow,185.3,Sports,2,Data Analyst,Bachelor,Friendship,Monthly,377
+13,13,Other,31,Chennai,167.7,Books,0,Freelancer,Bachelor,Marriage,Weekly,85
+14,14,Other,54,Ahmedabad,186.7,Books,0,Student,PhD,Marriage,Monthly,484
+15,15,Female,36,Lucknow,163,Movies,0,Teacher,Diploma,Casual Dating,Monthly,48
+16,16,Male,32,Hyderabad,161.6,Movies,1,Teacher,High School,Long-term Relationship,Rarely,267
+17,17,Other,43,Delhi,157.1,Sports,1,Artist,High School,Friendship,Rarely,91
+18,18,Female,48,Mumbai,161.1,Sports,2,Businessman,Bachelor,Long-term Relationship,Monthly,381
+19,19,Male,47,Bangalore,179.5,Music,1,Student,Diploma,Marriage,Monthly,195
+20,20,Female,48,Indore,174.1,Music,2,Student,PhD,Casual Dating,Rarely,52
+21,21,Female,55,Jaipur,154.3,Movies,0,Doctor,High School,Long-term Relationship,Weekly,418
+22,22,Other,41,Mumbai,152.2,Movies,3,Teacher,PhD,Long-term Relationship,Monthly,108
+23,23,Female,29,Mumbai,158.3,Music,1,Artist,High School,Friendship,Daily,230
+24,24,Female,42,Jaipur,151,Technology,1,Artist,PhD,Long-term Relationship,Daily,315
+25,25,Female,24,Lucknow,159.3,Music,2,Data Scientist,High School,Long-term Relationship,Monthly,31
+26,26,Other,58,Delhi,157.9,Movies,2,Lawyer,Diploma,Long-term Relationship,Weekly,48
+27,27,Male,33,Hyderabad,156.4,Books,1,Data Analyst,High School,Marriage,Rarely,340
+28,28,Male,22,Ahmedabad,157.9,Technology,2,Student,Master,Marriage,Rarely,194
+29,29,Other,27,Lucknow,163.9,Music,2,Businessman,Bachelor,Friendship,Rarely,469
+30,30,Male,47,Delhi,157.7,Technology,2,Teacher,Master,Casual Dating,Rarely,144
+31,31,Male,22,Delhi,161.5,Movies,3,Teacher,Bachelor,Friendship,Monthly,25
+32,32,Other,43,Jaipur,174.3,Books,1,Doctor,Master,Friendship,Rarely,116
+33,33,Female,19,Lucknow,172.8,Sports,2,Student,Bachelor,Casual Dating,Rarely,274
+34,34,Female,56,Pune,151.8,Technology,2,Freelancer,Diploma,Long-term Relationship,Rarely,115
+35,35,Other,60,Lucknow,182.5,Sports,3,Data Analyst,Bachelor,Casual Dating,Monthly,233
+36,36,Other,30,Jaipur,180,Sports,2,Artist,Bachelor,Casual Dating,Daily,89
+37,37,Female,25,Mumbai,174.1,Movies,1,Data Analyst,PhD,Long-term Relationship,Weekly,137
+38,38,Female,41,Kolkata,180.8,Music,0,Freelancer,Diploma,Friendship,Weekly,101
+39,39,Other,22,Bangalore,164.1,Music,2,Artist,High School,Friendship,Daily,322
+40,40,Other,26,Mumbai,155.4,Travel,2,Businessman,Diploma,Casual Dating,Monthly,135
+41,41,Male,33,Pune,155.2,Music,1,Freelancer,Bachelor,Casual Dating,Daily,284
+42,42,Female,40,Kolkata,184.1,Books,0,Engineer,High School,Marriage,Rarely,317
+43,43,Other,49,Delhi,152,Books,0,Doctor,PhD,Friendship,Monthly,163
+44,44,Female,20,Delhi,167.3,Books,2,Doctor,High School,Long-term Relationship,Weekly,481
+45,45,Female,23,Chennai,172,Music,0,Doctor,Master,Friendship,Weekly,485
+46,46,Other,20,Jaipur,174.9,Sports,0,Teacher,Diploma,Marriage,Rarely,330
+47,47,Female,57,Mumbai,186.9,Books,2,Doctor,Master,Long-term Relationship,Monthly,400
+48,48,Male,55,Bangalore,160,Technology,2,Student,Diploma,Marriage,Weekly,28
+49,49,Other,36,Chennai,181.6,Music,1,Freelancer,Bachelor,Long-term Relationship,Weekly,86
+50,50,Other,35,Hyderabad,168.4,Movies,1,Freelancer,PhD,Friendship,Monthly,228
+51,51,Female,49,Mumbai,150.1,Travel,0,Doctor,Master,Friendship,Monthly,38
+52,52,Other,39,Indore,178.9,Technology,0,Data Scientist,Diploma,Marriage,Rarely,116
+53,53,Other,21,Jaipur,156.3,Technology,1,Teacher,PhD,Marriage,Rarely,60
+54,54,Male,25,Indore,179.5,Books,2,Artist,Bachelor,Friendship,Rarely,455
+55,55,Female,56,Jaipur,158.8,Music,1,Data Analyst,Diploma,Long-term Relationship,Rarely,280
+56,56,Other,24,Delhi,159.9,Music,1,Data Analyst,Bachelor,Long-term Relationship,Monthly,497
+57,57,Male,46,Delhi,157.4,Music,2,Businessman,PhD,Marriage,Monthly,15
+58,58,Female,48,Ahmedabad,169.8,Travel,0,Data Scientist,Diploma,Friendship,Rarely,195
+59,59,Other,47,Pune,174.3,Sports,0,Lawyer,Diploma,Casual Dating,Weekly,377
+60,60,Female,39,Mumbai,180.9,Music,3,Data Analyst,High School,Friendship,Monthly,353
+61,61,Other,51,Indore,184.7,Travel,1,Lawyer,Diploma,Friendship,Rarely,298
+62,62,Male,33,Lucknow,178.6,Technology,2,Doctor,High School,Long-term Relationship,Weekly,295
+63,63,Other,26,Ahmedabad,185.9,Books,1,Artist,PhD,Casual Dating,Monthly,333
+64,64,Other,41,Indore,160.2,Music,2,Data Analyst,Diploma,Friendship,Monthly,292
+65,65,Male,54,Kolkata,177.3,Music,3,Businessman,Master,Friendship,Monthly,131
+66,66,Female,40,Hyderabad,181.5,Movies,1,Businessman,High School,Casual Dating,Daily,340
+67,67,Other,24,Chennai,181.6,Technology,1,Data Scientist,Bachelor,Marriage,Daily,441
+68,68,Male,42,Hyderabad,182.2,Sports,2,Lawyer,Bachelor,Long-term Relationship,Daily,76
+69,69,Female,37,Jaipur,186.8,Technology,1,Engineer,Master,Casual Dating,Daily,395
+70,70,Other,48,Chennai,162.5,Travel,2,Artist,PhD,Friendship,Monthly,71
+71,71,Female,44,Bangalore,154.3,Music,1,Doctor,Bachelor,Friendship,Rarely,146
+72,72,Other,56,Lucknow,162.7,Movies,0,Data Scientist,Diploma,Casual Dating,Rarely,76
+73,73,Other,35,Delhi,186.6,Music,3,Teacher,Diploma,Casual Dating,Daily,366
+74,74,Female,38,Mumbai,177.3,Movies,0,Data Analyst,Master,Casual Dating,Daily,123
+75,75,Other,24,Indore,184.5,Travel,2,Freelancer,Master,Friendship,Weekly,96
+76,76,Female,36,Hyderabad,187.7,Sports,3,Artist,High School,Casual Dating,Monthly,333
+77,77,Other,30,Ahmedabad,172.1,Travel,0,Data Analyst,Master,Marriage,Daily,472
+78,78,Male,29,Pune,151.1,Music,3,Doctor,Master,Casual Dating,Monthly,321
+79,79,Other,53,Ahmedabad,171.5,Books,1,Lawyer,PhD,Friendship,Daily,332
+80,80,Female,47,Indore,170.5,Travel,0,Data Scientist,High School,Friendship,Monthly,498
+81,81,Male,30,Jaipur,159.8,Technology,3,Lawyer,Master,Casual Dating,Monthly,44
+82,82,Female,39,Pune,178,Books,3,Freelancer,PhD,Casual Dating,Rarely,364
+83,83,Male,48,Indore,161.6,Books,3,Data Analyst,High School,Long-term Relationship,Monthly,252
+84,84,Male,23,Mumbai,162,Music,2,Doctor,Bachelor,Marriage,Weekly,488
+85,85,Other,19,Ahmedabad,154.1,Travel,2,Data Analyst,High School,Marriage,Daily,300
+86,86,Female,53,Bangalore,161.7,Music,2,Teacher,Bachelor,Friendship,Rarely,82
+87,87,Other,26,Lucknow,154.3,Technology,3,Artist,Master,Friendship,Weekly,324
+88,88,Female,35,Mumbai,171.9,Movies,0,Teacher,High School,Long-term Relationship,Rarely,473
+89,89,Male,48,Ahmedabad,171,Travel,0,Data Scientist,Bachelor,Friendship,Weekly,421
+90,90,Other,27,Ahmedabad,165,Sports,2,Businessman,Master,Long-term Relationship,Monthly,70
+91,91,Male,24,Pune,153.8,Music,0,Data Analyst,Master,Long-term Relationship,Weekly,303
+92,92,Female,43,Delhi,186.7,Books,3,Doctor,Master,Long-term Relationship,Daily,415
+93,93,Male,23,Chennai,152.6,Books,3,Freelancer,Diploma,Friendship,Weekly,152
+94,94,Female,58,Hyderabad,152.6,Technology,3,Lawyer,High School,Long-term Relationship,Weekly,245
+95,95,Other,23,Indore,177.2,Sports,0,Doctor,PhD,Friendship,Weekly,369
+96,96,Female,55,Pune,180.6,Movies,2,Doctor,Master,Marriage,Rarely,343
+97,97,Female,35,Bangalore,165.7,Travel,2,Data Analyst,Bachelor,Marriage,Weekly,338
+98,98,Male,60,Bangalore,161.5,Music,3,Freelancer,Bachelor,Marriage,Rarely,398
+99,99,Male,28,Lucknow,179.7,Sports,3,Data Analyst,Bachelor,Long-term Relationship,Daily,158
+100,100,Other,20,Mumbai,178.3,Movies,3,Data Analyst,Diploma,Long-term Relationship,Rarely,157
+101,101,Male,55,Hyderabad,174.1,Books,2,Data Scientist,Master,Casual Dating,Monthly,220
+102,102,Female,46,Indore,183.6,Music,3,Data Scientist,High School,Casual Dating,Rarely,135
+103,103,Female,37,Delhi,170.1,Movies,0,Engineer,PhD,Casual Dating,Rarely,24
+104,104,Female,34,Kolkata,165,Travel,0,Lawyer,High School,Marriage,Monthly,148
+105,105,Female,25,Hyderabad,175.8,Books,1,Lawyer,PhD,Casual Dating,Daily,305
+106,106,Female,20,Lucknow,153.5,Movies,1,Engineer,High School,Marriage,Monthly,268
+107,107,Male,56,Bangalore,156.4,Travel,1,Doctor,Master,Long-term Relationship,Weekly,190
+108,108,Other,51,Hyderabad,186.2,Movies,3,Data Analyst,Bachelor,Marriage,Daily,216
+109,109,Other,48,Chennai,169.8,Sports,2,Lawyer,Diploma,Friendship,Rarely,499
+110,110,Male,48,Chennai,160.2,Books,0,Businessman,PhD,Friendship,Rarely,28
+111,111,Male,29,Kolkata,184.1,Books,1,Engineer,PhD,Long-term Relationship,Rarely,23
+112,112,Male,57,Mumbai,180.4,Books,2,Data Scientist,PhD,Casual Dating,Daily,160
+113,113,Female,31,Hyderabad,168.9,Travel,1,Freelancer,PhD,Marriage,Rarely,268
+114,114,Male,59,Bangalore,169.6,Technology,1,Engineer,PhD,Casual Dating,Daily,80
+115,115,Male,56,Delhi,150.6,Travel,3,Teacher,Master,Friendship,Daily,240
+116,116,Female,52,Indore,168.2,Movies,2,Data Analyst,Bachelor,Friendship,Monthly,318
+117,117,Male,55,Indore,163.9,Sports,1,Data Analyst,Master,Marriage,Weekly,43
+118,118,Other,33,Jaipur,187.4,Music,3,Artist,High School,Friendship,Rarely,372
+119,119,Male,44,Jaipur,161.2,Technology,2,Teacher,Master,Marriage,Daily,491
+120,120,Male,53,Chennai,186.1,Movies,2,Teacher,High School,Marriage,Monthly,161
+121,121,Other,26,Chennai,151.9,Music,0,Engineer,Bachelor,Friendship,Monthly,188
+122,122,Male,29,Chennai,162.4,Technology,3,Teacher,PhD,Casual Dating,Daily,376
+123,123,Male,28,Mumbai,189.3,Sports,3,Lawyer,Diploma,Friendship,Weekly,117
+124,124,Female,33,Lucknow,173.3,Travel,1,Lawyer,High School,Friendship,Monthly,77
+125,125,Female,23,Indore,155.3,Technology,1,Businessman,High School,Casual Dating,Rarely,347
+126,126,Female,18,Lucknow,186.8,Technology,1,Engineer,Diploma,Long-term Relationship,Daily,497
+127,127,Female,47,Bangalore,180.4,Sports,0,Doctor,High School,Friendship,Weekly,242
+128,128,Male,28,Hyderabad,171.9,Travel,3,Engineer,Master,Casual Dating,Weekly,68
+129,129,Male,22,Kolkata,160.3,Sports,3,Artist,PhD,Friendship,Rarely,400
+130,130,Male,60,Lucknow,170.1,Music,1,Data Analyst,Bachelor,Casual Dating,Daily,314
+131,131,Other,56,Bangalore,179.5,Music,1,Businessman,Diploma,Friendship,Monthly,450
+132,132,Male,28,Indore,181,Technology,2,Data Scientist,High School,Casual Dating,Rarely,12
+133,133,Female,39,Bangalore,173,Music,0,Data Scientist,Bachelor,Marriage,Monthly,198
+134,134,Other,18,Chennai,185.1,Music,1,Data Analyst,Diploma,Casual Dating,Weekly,49
+135,135,Male,43,Indore,160.2,Travel,0,Data Analyst,PhD,Casual Dating,Weekly,252
+136,136,Male,35,Lucknow,181.8,Music,1,Businessman,High School,Long-term Relationship,Daily,468
+137,137,Male,22,Bangalore,156.8,Sports,2,Teacher,Diploma,Long-term Relationship,Rarely,127
+138,138,Other,53,Indore,171.1,Music,3,Doctor,High School,Friendship,Rarely,327
+139,139,Other,47,Chennai,186.8,Travel,3,Engineer,Bachelor,Friendship,Rarely,265
+140,140,Other,52,Jaipur,184.3,Technology,0,Lawyer,PhD,Casual Dating,Weekly,192
+141,141,Other,58,Bangalore,174.1,Books,0,Artist,Diploma,Friendship,Rarely,131
+142,142,Male,20,Indore,187.3,Sports,1,Teacher,PhD,Friendship,Weekly,153
+143,143,Female,52,Bangalore,166.3,Travel,3,Lawyer,PhD,Long-term Relationship,Weekly,21
+144,144,Female,29,Delhi,167.8,Technology,1,Student,Diploma,Friendship,Monthly,483
+145,145,Male,25,Chennai,173.8,Travel,1,Freelancer,Master,Friendship,Rarely,162
+146,146,Female,33,Kolkata,180.5,Movies,3,Freelancer,PhD,Friendship,Weekly,149
+147,147,Male,25,Lucknow,179.3,Sports,2,Artist,Diploma,Friendship,Daily,81
+148,148,Female,26,Pune,155.9,Music,0,Data Scientist,Diploma,Casual Dating,Monthly,56
+149,149,Female,39,Delhi,154.8,Movies,3,Data Analyst,PhD,Casual Dating,Monthly,486
+150,150,Other,29,Ahmedabad,186.3,Movies,0,Artist,Diploma,Casual Dating,Monthly,30
+151,151,Other,60,Bangalore,185.1,Music,1,Doctor,High School,Casual Dating,Daily,191
+152,152,Male,58,Mumbai,181.4,Music,1,Teacher,High School,Long-term Relationship,Weekly,227
+153,153,Other,57,Bangalore,185.2,Travel,1,Doctor,PhD,Friendship,Weekly,424
+154,154,Other,39,Chennai,152.8,Movies,1,Data Analyst,Bachelor,Long-term Relationship,Weekly,244
+155,155,Female,54,Hyderabad,184.6,Music,3,Engineer,High School,Friendship,Weekly,243
+156,156,Female,36,Bangalore,188.8,Music,0,Lawyer,Diploma,Marriage,Weekly,60
+157,157,Female,32,Ahmedabad,161.9,Books,0,Student,Diploma,Marriage,Weekly,297
+158,158,Female,50,Chennai,181.1,Books,3,Freelancer,Bachelor,Marriage,Weekly,297
+159,159,Male,49,Bangalore,186.3,Sports,3,Businessman,Bachelor,Friendship,Daily,74
+160,160,Other,37,Indore,188.3,Sports,1,Doctor,PhD,Long-term Relationship,Monthly,32
+161,161,Female,41,Bangalore,158.2,Music,0,Freelancer,Master,Friendship,Rarely,320
+162,162,Female,34,Kolkata,186.1,Technology,2,Data Scientist,Diploma,Casual Dating,Monthly,219
+163,163,Female,23,Mumbai,171.2,Movies,0,Lawyer,PhD,Marriage,Daily,199
+164,164,Female,54,Hyderabad,174,Sports,2,Freelancer,Bachelor,Friendship,Monthly,374
+165,165,Other,38,Indore,187.4,Sports,2,Businessman,Bachelor,Long-term Relationship,Daily,494
+166,166,Female,40,Hyderabad,183.1,Travel,1,Engineer,High School,Friendship,Daily,273
+167,167,Other,38,Bangalore,171.5,Movies,3,Data Scientist,PhD,Long-term Relationship,Weekly,331
+168,168,Female,27,Ahmedabad,156,Music,0,Student,High School,Friendship,Daily,231
+169,169,Female,57,Pune,165.6,Books,1,Artist,Diploma,Marriage,Daily,133
+170,170,Male,29,Indore,166.8,Books,2,Businessman,High School,Marriage,Rarely,164
+171,171,Male,43,Jaipur,151.9,Music,1,Data Analyst,PhD,Friendship,Monthly,445
+172,172,Other,40,Lucknow,169.5,Technology,1,Businessman,Diploma,Marriage,Rarely,374
+173,173,Male,35,Bangalore,165.1,Movies,1,Artist,Bachelor,Long-term Relationship,Daily,294
+174,174,Male,58,Ahmedabad,157.4,Sports,3,Engineer,PhD,Long-term Relationship,Monthly,286
+175,175,Male,49,Mumbai,177,Music,3,Student,High School,Friendship,Monthly,486
+176,176,Male,47,Lucknow,156.9,Technology,0,Doctor,PhD,Casual Dating,Monthly,388
+177,177,Female,45,Kolkata,161.7,Movies,1,Data Analyst,Diploma,Casual Dating,Weekly,366
+178,178,Other,60,Ahmedabad,188.2,Technology,1,Freelancer,High School,Casual Dating,Rarely,99
+179,179,Female,31,Hyderabad,171.6,Travel,0,Engineer,Bachelor,Casual Dating,Daily,127
+180,180,Female,19,Ahmedabad,155.7,Sports,1,Data Analyst,PhD,Casual Dating,Daily,37
+181,181,Other,53,Lucknow,185.5,Movies,0,Businessman,PhD,Friendship,Monthly,24
+182,182,Other,26,Chennai,151.2,Movies,2,Student,PhD,Casual Dating,Monthly,262
+183,183,Other,58,Pune,189.7,Movies,3,Teacher,Diploma,Friendship,Monthly,387
+184,184,Other,60,Mumbai,152.6,Movies,1,Artist,PhD,Friendship,Weekly,392
+185,185,Male,32,Delhi,170.4,Books,3,Lawyer,PhD,Marriage,Daily,444
+186,186,Female,36,Bangalore,153.8,Travel,1,Freelancer,High School,Friendship,Daily,262
+187,187,Other,48,Pune,157.4,Books,3,Businessman,Diploma,Casual Dating,Daily,407
+188,188,Other,56,Indore,150.8,Technology,3,Artist,Master,Casual Dating,Monthly,446
+189,189,Male,22,Lucknow,182.1,Travel,0,Teacher,PhD,Long-term Relationship,Rarely,154
+190,190,Female,50,Ahmedabad,152,Music,0,Engineer,Bachelor,Long-term Relationship,Monthly,94
+191,191,Male,24,Chennai,167.8,Travel,2,Lawyer,Diploma,Casual Dating,Monthly,99
+192,192,Other,34,Lucknow,182.6,Books,3,Teacher,PhD,Casual Dating,Rarely,369
+193,193,Female,34,Ahmedabad,187.6,Sports,0,Data Analyst,Diploma,Friendship,Weekly,214
+194,194,Other,35,Mumbai,187,Travel,1,Doctor,High School,Long-term Relationship,Weekly,434
+195,195,Male,33,Kolkata,171.1,Technology,2,Freelancer,High School,Marriage,Rarely,105
+196,196,Male,46,Hyderabad,190,Movies,2,Engineer,PhD,Marriage,Daily,285
+197,197,Female,34,Chennai,151.7,Books,1,Engineer,Bachelor,Marriage,Monthly,173
+198,198,Other,48,Kolkata,179.2,Books,0,Lawyer,PhD,Casual Dating,Monthly,164
+199,199,Female,29,Mumbai,189.7,Books,0,Lawyer,Diploma,Casual Dating,Monthly,164
+200,200,Male,38,Lucknow,155.2,Music,3,Engineer,High School,Casual Dating,Monthly,360
+201,201,Female,40,Hyderabad,183.1,Sports,1,Doctor,High School,Friendship,Weekly,241
+202,202,Female,56,Lucknow,188.5,Technology,1,Doctor,Bachelor,Casual Dating,Rarely,118
+203,203,Male,20,Kolkata,175.3,Travel,3,Freelancer,PhD,Marriage,Weekly,80
+204,204,Other,53,Delhi,164.8,Travel,0,Data Scientist,High School,Friendship,Daily,49
+205,205,Other,38,Ahmedabad,180.6,Travel,3,Doctor,Bachelor,Friendship,Weekly,201
+206,206,Female,57,Bangalore,184.7,Movies,2,Engineer,Master,Friendship,Weekly,205
+207,207,Female,59,Indore,169.2,Sports,2,Engineer,Diploma,Marriage,Daily,67
+208,208,Female,48,Lucknow,163.1,Movies,1,Artist,Bachelor,Casual Dating,Monthly,469
+209,209,Female,43,Mumbai,171,Sports,3,Engineer,Bachelor,Friendship,Weekly,277
+210,210,Female,36,Mumbai,185.5,Technology,0,Doctor,Master,Friendship,Weekly,59
+211,211,Male,33,Chennai,185.4,Music,3,Artist,PhD,Marriage,Weekly,45
+212,212,Female,31,Bangalore,188,Movies,1,Lawyer,Master,Long-term Relationship,Rarely,428
+213,213,Other,25,Indore,169.4,Sports,3,Lawyer,PhD,Long-term Relationship,Daily,119
+214,214,Male,53,Chennai,173.6,Travel,0,Lawyer,Diploma,Marriage,Rarely,138
+215,215,Other,58,Lucknow,167.3,Books,3,Lawyer,Diploma,Friendship,Rarely,473
+216,216,Male,34,Delhi,151.6,Movies,0,Teacher,Master,Marriage,Monthly,64
+217,217,Female,47,Delhi,187.6,Movies,1,Artist,High School,Long-term Relationship,Monthly,401
+218,218,Male,44,Bangalore,179.6,Books,3,Data Scientist,PhD,Casual Dating,Weekly,364
+219,219,Other,36,Pune,173.6,Sports,2,Freelancer,Bachelor,Long-term Relationship,Monthly,339
+220,220,Female,21,Delhi,188.8,Sports,0,Student,PhD,Casual Dating,Weekly,334
+221,221,Male,40,Mumbai,184.2,Books,0,Lawyer,Diploma,Long-term Relationship,Weekly,17
+222,222,Female,19,Ahmedabad,172.9,Sports,0,Lawyer,Bachelor,Marriage,Weekly,229
+223,223,Other,26,Bangalore,182.1,Technology,3,Engineer,Diploma,Friendship,Rarely,125
+224,224,Female,23,Jaipur,156.2,Sports,0,Student,Master,Long-term Relationship,Monthly,286
+225,225,Male,28,Bangalore,176.1,Travel,0,Engineer,Master,Friendship,Rarely,85
+226,226,Other,52,Hyderabad,161.2,Travel,2,Engineer,High School,Long-term Relationship,Weekly,436
+227,227,Female,49,Hyderabad,168.5,Technology,3,Lawyer,PhD,Long-term Relationship,Daily,350
+228,228,Female,48,Hyderabad,151.8,Books,3,Artist,Diploma,Friendship,Daily,252
+229,229,Female,33,Hyderabad,161.9,Technology,3,Lawyer,PhD,Marriage,Monthly,474
+230,230,Other,54,Hyderabad,161.2,Movies,3,Teacher,High School,Friendship,Rarely,193
+231,231,Other,26,Delhi,160.3,Technology,1,Teacher,Diploma,Long-term Relationship,Monthly,308
+232,232,Female,44,Chennai,180.1,Travel,1,Doctor,Diploma,Casual Dating,Daily,403
+233,233,Other,43,Mumbai,164.7,Technology,2,Artist,Master,Friendship,Monthly,196
+234,234,Other,43,Kolkata,186.4,Music,3,Lawyer,Bachelor,Long-term Relationship,Monthly,276
+235,235,Other,42,Lucknow,159.8,Music,3,Teacher,Master,Friendship,Monthly,35
+236,236,Female,26,Delhi,183.2,Technology,2,Businessman,PhD,Casual Dating,Weekly,41
+237,237,Other,43,Bangalore,175.9,Movies,1,Teacher,Master,Long-term Relationship,Rarely,317
+238,238,Male,27,Delhi,158,Travel,0,Data Analyst,Bachelor,Long-term Relationship,Rarely,131
+239,239,Other,26,Bangalore,181.1,Technology,0,Lawyer,Bachelor,Casual Dating,Daily,136
+240,240,Male,23,Indore,160.7,Technology,1,Student,Bachelor,Casual Dating,Weekly,153
+241,241,Female,48,Pune,171.2,Books,2,Data Scientist,PhD,Casual Dating,Monthly,327
+242,242,Other,48,Hyderabad,169.1,Travel,3,Businessman,Bachelor,Marriage,Weekly,132
+243,243,Male,20,Indore,166,Books,0,Student,Master,Long-term Relationship,Rarely,204
+244,244,Male,50,Lucknow,173.9,Movies,3,Freelancer,Master,Long-term Relationship,Weekly,492
+245,245,Female,33,Delhi,172.4,Books,3,Student,Master,Friendship,Monthly,289
+246,246,Male,22,Indore,177.9,Technology,2,Artist,Diploma,Friendship,Rarely,492
+247,247,Female,59,Indore,166.4,Technology,3,Teacher,Master,Casual Dating,Daily,313
+248,248,Male,47,Indore,165.3,Technology,2,Data Scientist,High School,Casual Dating,Rarely,164
+249,249,Male,51,Delhi,178.9,Books,0,Engineer,Diploma,Casual Dating,Daily,40
+250,250,Female,38,Kolkata,189.6,Technology,0,Artist,Master,Long-term Relationship,Monthly,228
+251,251,Male,60,Indore,180.9,Travel,2,Engineer,High School,Long-term Relationship,Daily,349
+252,252,Male,24,Pune,172,Books,0,Teacher,Bachelor,Casual Dating,Weekly,94
+253,253,Female,37,Jaipur,165.7,Sports,3,Businessman,Master,Friendship,Daily,80
+254,254,Other,19,Delhi,179.6,Music,1,Lawyer,PhD,Long-term Relationship,Rarely,436
+255,255,Other,25,Kolkata,160.8,Sports,1,Data Analyst,Diploma,Long-term Relationship,Daily,147
+256,256,Other,33,Hyderabad,166.4,Books,1,Engineer,PhD,Friendship,Monthly,27
+257,257,Other,40,Indore,176.3,Books,1,Artist,PhD,Casual Dating,Weekly,105
+258,258,Other,43,Delhi,165.2,Travel,3,Lawyer,Master,Long-term Relationship,Daily,348
+259,259,Female,39,Jaipur,165,Travel,2,Data Scientist,Master,Long-term Relationship,Rarely,56
+260,260,Female,36,Hyderabad,154.1,Travel,1,Engineer,Bachelor,Friendship,Daily,493
+261,261,Female,53,Kolkata,178.9,Movies,3,Student,PhD,Long-term Relationship,Rarely,191
+262,262,Female,51,Chennai,158,Movies,2,Data Analyst,Diploma,Marriage,Rarely,172
+263,263,Other,54,Kolkata,188,Movies,2,Freelancer,Diploma,Friendship,Monthly,87
+264,264,Female,47,Lucknow,173.4,Travel,0,Doctor,Master,Long-term Relationship,Rarely,435
+265,265,Female,28,Indore,182.2,Sports,2,Data Scientist,PhD,Casual Dating,Rarely,238
+266,266,Other,20,Bangalore,172.3,Sports,1,Data Scientist,High School,Casual Dating,Daily,86
+267,267,Female,48,Kolkata,187.7,Music,3,Freelancer,Bachelor,Casual Dating,Rarely,212
+268,268,Female,29,Kolkata,181.5,Technology,3,Engineer,Diploma,Casual Dating,Rarely,118
+269,269,Female,33,Jaipur,167,Books,1,Teacher,High School,Marriage,Weekly,309
+270,270,Female,32,Indore,163.7,Travel,2,Businessman,PhD,Marriage,Monthly,217
+271,271,Male,44,Chennai,179.3,Books,3,Doctor,PhD,Long-term Relationship,Rarely,286
+272,272,Male,41,Delhi,157.9,Sports,1,Lawyer,Bachelor,Friendship,Daily,93
+273,273,Female,50,Ahmedabad,181.8,Books,1,Lawyer,Diploma,Marriage,Daily,41
+274,274,Female,55,Chennai,187.8,Music,0,Freelancer,Diploma,Casual Dating,Weekly,343
+275,275,Male,44,Lucknow,165.9,Music,3,Freelancer,High School,Marriage,Weekly,24
+276,276,Other,43,Lucknow,175.5,Travel,2,Doctor,High School,Casual Dating,Rarely,31
+277,277,Other,52,Delhi,171.7,Travel,0,Artist,PhD,Marriage,Monthly,403
+278,278,Female,42,Ahmedabad,169.9,Music,2,Data Analyst,PhD,Long-term Relationship,Daily,125
+279,279,Male,46,Delhi,161,Technology,1,Freelancer,Diploma,Long-term Relationship,Rarely,230
+280,280,Other,45,Jaipur,172.2,Music,1,Lawyer,Master,Friendship,Weekly,61
+281,281,Other,23,Bangalore,179.4,Music,2,Artist,High School,Long-term Relationship,Rarely,425
+282,282,Male,21,Kolkata,181.9,Music,1,Artist,Diploma,Marriage,Monthly,385
+283,283,Other,46,Ahmedabad,157.6,Books,1,Engineer,High School,Friendship,Rarely,360
+284,284,Male,55,Bangalore,156.9,Sports,0,Artist,PhD,Long-term Relationship,Rarely,17
+285,285,Male,34,Ahmedabad,176.5,Sports,1,Data Analyst,PhD,Marriage,Monthly,51
+286,286,Male,57,Mumbai,159.9,Music,1,Artist,Diploma,Friendship,Daily,128
+287,287,Female,28,Lucknow,177.4,Books,1,Artist,Diploma,Marriage,Weekly,444
+288,288,Other,57,Ahmedabad,166.1,Technology,1,Lawyer,Diploma,Long-term Relationship,Daily,287
+289,289,Female,24,Chennai,162.9,Movies,1,Lawyer,Bachelor,Friendship,Daily,267
+290,290,Female,48,Hyderabad,180.4,Books,0,Data Scientist,Bachelor,Friendship,Weekly,329
+291,291,Male,27,Kolkata,176.5,Technology,0,Engineer,High School,Long-term Relationship,Daily,332
+292,292,Male,24,Bangalore,188.5,Books,3,Teacher,Bachelor,Long-term Relationship,Rarely,58
+293,293,Male,22,Delhi,174.5,Travel,0,Data Analyst,High School,Friendship,Monthly,304
+294,294,Female,22,Bangalore,178,Books,2,Doctor,PhD,Marriage,Monthly,128
+295,295,Female,43,Mumbai,175.5,Technology,3,Businessman,PhD,Marriage,Weekly,276
+296,296,Other,43,Lucknow,156.4,Sports,2,Artist,PhD,Long-term Relationship,Rarely,431
+297,297,Male,51,Pune,170.9,Sports,3,Doctor,PhD,Marriage,Monthly,204
+298,298,Female,60,Hyderabad,184.1,Books,2,Artist,Master,Casual Dating,Rarely,464
+299,299,Male,51,Lucknow,174.3,Movies,3,Engineer,Diploma,Marriage,Rarely,328
+300,300,Female,19,Mumbai,166.4,Music,0,Doctor,Master,Marriage,Daily,46
+301,301,Female,50,Mumbai,173.5,Technology,0,Lawyer,PhD,Casual Dating,Monthly,215
+302,302,Female,38,Hyderabad,167.8,Books,2,Teacher,PhD,Casual Dating,Weekly,392
+303,303,Other,28,Indore,168.4,Movies,3,Teacher,Master,Marriage,Weekly,60
+304,304,Other,33,Ahmedabad,164.3,Books,1,Artist,Master,Marriage,Rarely,139
+305,305,Other,60,Indore,185.1,Movies,1,Engineer,Master,Casual Dating,Rarely,386
+306,306,Other,43,Pune,178.2,Music,1,Engineer,High School,Marriage,Daily,50
+307,307,Female,44,Pune,175.5,Movies,0,Engineer,PhD,Long-term Relationship,Weekly,393
+308,308,Other,20,Bangalore,183.1,Music,0,Teacher,Master,Marriage,Monthly,160
+309,309,Male,19,Bangalore,187,Travel,0,Teacher,Bachelor,Marriage,Daily,252
+310,310,Other,30,Pune,156.9,Movies,2,Doctor,Bachelor,Long-term Relationship,Daily,19
+311,311,Male,47,Lucknow,156.4,Sports,1,Freelancer,High School,Marriage,Weekly,394
+312,312,Other,54,Mumbai,179.8,Technology,2,Businessman,Diploma,Casual Dating,Rarely,135
+313,313,Female,57,Indore,186,Travel,2,Freelancer,PhD,Long-term Relationship,Weekly,193
+314,314,Other,26,Bangalore,165.3,Travel,3,Student,High School,Long-term Relationship,Weekly,112
+315,315,Other,45,Ahmedabad,158.8,Sports,1,Doctor,PhD,Friendship,Weekly,234
+316,316,Female,22,Kolkata,157.3,Sports,2,Engineer,Bachelor,Friendship,Monthly,91
+317,317,Female,47,Mumbai,158.8,Sports,0,Artist,High School,Long-term Relationship,Weekly,473
+318,318,Male,50,Hyderabad,160.9,Travel,3,Freelancer,PhD,Marriage,Daily,10
+319,319,Male,36,Chennai,173.5,Sports,0,Data Scientist,PhD,Casual Dating,Weekly,167
+320,320,Other,29,Hyderabad,168.7,Movies,0,Artist,Master,Marriage,Monthly,344
+321,321,Other,37,Bangalore,159,Movies,1,Lawyer,Bachelor,Long-term Relationship,Monthly,433
+322,322,Female,40,Kolkata,156.3,Movies,1,Freelancer,Diploma,Marriage,Monthly,384
+323,323,Female,42,Delhi,173.6,Movies,2,Engineer,Bachelor,Long-term Relationship,Rarely,155
+324,324,Male,51,Hyderabad,171.6,Music,0,Data Analyst,High School,Marriage,Monthly,153
+325,325,Male,46,Lucknow,155.4,Movies,1,Businessman,PhD,Long-term Relationship,Daily,178
+326,326,Other,54,Lucknow,169.9,Music,3,Freelancer,PhD,Friendship,Rarely,25
+327,327,Male,34,Lucknow,183.7,Sports,2,Data Analyst,PhD,Marriage,Rarely,244
+328,328,Male,21,Ahmedabad,159.5,Books,2,Student,Bachelor,Marriage,Rarely,260
+329,329,Other,56,Delhi,166.6,Movies,2,Student,Master,Friendship,Daily,35
+330,330,Female,35,Lucknow,168.1,Technology,0,Lawyer,Bachelor,Long-term Relationship,Monthly,160
+331,331,Other,60,Lucknow,161.9,Music,1,Engineer,Master,Friendship,Daily,324
+332,332,Female,22,Chennai,150.6,Sports,0,Freelancer,High School,Casual Dating,Rarely,180
+333,333,Other,50,Indore,173.7,Music,0,Data Scientist,Bachelor,Casual Dating,Daily,360
+334,334,Male,49,Kolkata,187.9,Books,1,Student,PhD,Friendship,Monthly,52
+335,335,Female,20,Lucknow,185.8,Technology,3,Businessman,PhD,Long-term Relationship,Daily,301
+336,336,Male,47,Pune,179.2,Books,1,Data Analyst,Diploma,Long-term Relationship,Rarely,142
+337,337,Other,49,Mumbai,155.5,Travel,3,Artist,PhD,Casual Dating,Rarely,64
+338,338,Female,36,Lucknow,163.1,Technology,3,Businessman,Master,Marriage,Weekly,202
+339,339,Other,30,Bangalore,176.7,Movies,2,Doctor,High School,Long-term Relationship,Monthly,462
+340,340,Female,28,Pune,161,Travel,2,Data Scientist,Bachelor,Long-term Relationship,Monthly,134
+341,341,Other,53,Ahmedabad,188.7,Music,2,Data Analyst,Diploma,Marriage,Daily,447
+342,342,Male,45,Ahmedabad,151.3,Movies,2,Doctor,Master,Casual Dating,Daily,132
+343,343,Female,26,Chennai,158.5,Sports,3,Freelancer,High School,Friendship,Daily,184
+344,344,Other,25,Jaipur,160.9,Sports,0,Data Analyst,High School,Friendship,Weekly,500
+345,345,Male,19,Delhi,174.4,Travel,0,Businessman,High School,Friendship,Rarely,138
+346,346,Female,60,Lucknow,165.8,Books,0,Data Analyst,Master,Casual Dating,Daily,459
+347,347,Female,56,Kolkata,165.7,Music,0,Doctor,Bachelor,Marriage,Monthly,348
+348,348,Male,52,Chennai,185.4,Sports,0,Teacher,Master,Long-term Relationship,Rarely,183
+349,349,Male,19,Lucknow,152.1,Music,1,Data Analyst,High School,Marriage,Weekly,176
+350,350,Other,47,Mumbai,179.1,Sports,3,Student,High School,Long-term Relationship,Rarely,130
+351,351,Male,41,Jaipur,172.3,Technology,2,Artist,PhD,Marriage,Rarely,257
+352,352,Other,53,Indore,154.5,Books,2,Teacher,High School,Long-term Relationship,Rarely,36
+353,353,Other,40,Indore,155.6,Music,3,Freelancer,PhD,Marriage,Daily,493
+354,354,Other,54,Indore,170.9,Sports,0,Teacher,High School,Marriage,Weekly,119
+355,355,Other,59,Chennai,152.9,Books,2,Data Analyst,High School,Friendship,Rarely,114
+356,356,Male,59,Mumbai,169.5,Travel,3,Artist,PhD,Casual Dating,Weekly,143
+357,357,Male,59,Delhi,151,Books,0,Teacher,Diploma,Friendship,Weekly,497
+358,358,Female,48,Bangalore,157.5,Travel,0,Student,PhD,Marriage,Daily,469
+359,359,Male,23,Delhi,156.2,Music,3,Data Scientist,Master,Friendship,Monthly,138
+360,360,Other,57,Pune,182.6,Technology,0,Doctor,High School,Friendship,Daily,113
+361,361,Other,24,Kolkata,159.4,Movies,0,Engineer,Bachelor,Marriage,Rarely,428
+362,362,Male,35,Pune,156.6,Travel,0,Student,PhD,Long-term Relationship,Daily,270
+363,363,Male,45,Delhi,166.7,Movies,2,Freelancer,Master,Marriage,Daily,333
+364,364,Female,38,Mumbai,186.1,Books,2,Student,Bachelor,Casual Dating,Weekly,21
+365,365,Female,33,Chennai,167.8,Sports,1,Data Analyst,High School,Marriage,Monthly,290
+366,366,Female,47,Pune,175,Technology,0,Artist,PhD,Casual Dating,Rarely,59
+367,367,Male,37,Hyderabad,165.2,Music,3,Data Analyst,Master,Marriage,Daily,53
+368,368,Male,41,Kolkata,173.8,Sports,1,Artist,Bachelor,Marriage,Monthly,135
+369,369,Other,24,Mumbai,154.1,Technology,3,Lawyer,Diploma,Casual Dating,Rarely,320
+370,370,Other,47,Kolkata,187.2,Books,3,Data Analyst,High School,Friendship,Rarely,397
+371,371,Male,34,Kolkata,180.5,Sports,1,Data Scientist,PhD,Casual Dating,Weekly,247
+372,372,Female,51,Lucknow,176.3,Books,2,Doctor,Master,Marriage,Weekly,73
+373,373,Other,43,Pune,168.4,Sports,3,Freelancer,Bachelor,Marriage,Rarely,445
+374,374,Other,52,Ahmedabad,189.4,Sports,0,Engineer,High School,Long-term Relationship,Weekly,466
+375,375,Female,31,Indore,180.2,Books,2,Doctor,Bachelor,Long-term Relationship,Daily,388
+376,376,Other,27,Kolkata,183.1,Movies,3,Lawyer,Master,Friendship,Weekly,482
+377,377,Male,18,Jaipur,181,Movies,1,Teacher,PhD,Casual Dating,Daily,227
+378,378,Female,50,Mumbai,150.6,Sports,0,Lawyer,PhD,Casual Dating,Weekly,274
+379,379,Male,39,Chennai,155,Travel,3,Doctor,Diploma,Casual Dating,Rarely,311
+380,380,Other,47,Ahmedabad,156.2,Books,3,Artist,Bachelor,Marriage,Monthly,490
+381,381,Other,40,Delhi,170.1,Books,0,Engineer,Master,Marriage,Rarely,286
+382,382,Other,33,Delhi,150.3,Travel,1,Engineer,High School,Friendship,Weekly,443
+383,383,Female,49,Chennai,153.1,Movies,2,Doctor,Diploma,Casual Dating,Rarely,328
+384,384,Male,21,Hyderabad,170.6,Books,0,Teacher,PhD,Casual Dating,Rarely,333
+385,385,Other,35,Pune,150.2,Sports,0,Doctor,PhD,Marriage,Rarely,140
+386,386,Female,47,Lucknow,182.9,Movies,0,Doctor,Bachelor,Casual Dating,Rarely,332
+387,387,Other,43,Hyderabad,177,Books,2,Lawyer,High School,Marriage,Weekly,488
+388,388,Male,49,Indore,151.7,Technology,1,Student,PhD,Marriage,Monthly,22
+389,389,Male,35,Lucknow,175.4,Travel,1,Data Scientist,High School,Casual Dating,Monthly,75
+390,390,Male,27,Ahmedabad,169.6,Sports,0,Student,High School,Marriage,Monthly,327
+391,391,Other,24,Bangalore,160.1,Movies,1,Student,PhD,Long-term Relationship,Daily,18
+392,392,Male,32,Pune,181,Music,1,Freelancer,Bachelor,Casual Dating,Rarely,378
+393,393,Other,26,Jaipur,183.3,Travel,2,Freelancer,PhD,Casual Dating,Daily,231
+394,394,Male,43,Chennai,179.2,Music,3,Businessman,High School,Casual Dating,Monthly,126
+395,395,Other,36,Hyderabad,168.1,Movies,3,Teacher,High School,Long-term Relationship,Monthly,34
+396,396,Female,19,Indore,170.5,Travel,3,Data Scientist,Bachelor,Friendship,Monthly,94
+397,397,Other,52,Kolkata,169.6,Music,3,Engineer,High School,Marriage,Monthly,236
+398,398,Male,34,Lucknow,172.2,Music,2,Lawyer,Diploma,Casual Dating,Daily,446
+399,399,Female,18,Jaipur,171.8,Music,1,Lawyer,Diploma,Long-term Relationship,Monthly,221
+400,400,Other,29,Jaipur,156.5,Music,3,Data Scientist,Bachelor,Casual Dating,Daily,432
+401,401,Other,47,Bangalore,171.8,Music,3,Data Analyst,Master,Long-term Relationship,Rarely,360
+402,402,Female,55,Chennai,155.2,Travel,1,Teacher,High School,Marriage,Daily,421
+403,403,Other,30,Jaipur,178.4,Books,3,Data Scientist,Master,Friendship,Rarely,331
+404,404,Other,57,Chennai,160.2,Music,3,Data Analyst,Diploma,Marriage,Monthly,114
+405,405,Male,38,Delhi,187.1,Travel,3,Freelancer,High School,Long-term Relationship,Rarely,168
+406,406,Female,49,Indore,182.4,Music,2,Lawyer,PhD,Long-term Relationship,Daily,375
+407,407,Other,47,Indore,183.4,Books,2,Artist,Diploma,Casual Dating,Daily,305
+408,408,Male,54,Mumbai,158.1,Music,3,Freelancer,Bachelor,Friendship,Monthly,44
+409,409,Female,34,Indore,156.9,Books,1,Data Scientist,High School,Long-term Relationship,Weekly,390
+410,410,Other,40,Chennai,162.2,Technology,1,Lawyer,Diploma,Long-term Relationship,Weekly,228
+411,411,Female,39,Bangalore,155.1,Technology,0,Engineer,PhD,Friendship,Weekly,488
+412,412,Other,42,Hyderabad,162.9,Music,3,Data Scientist,Master,Long-term Relationship,Daily,101
+413,413,Other,59,Delhi,176.2,Music,1,Freelancer,Bachelor,Casual Dating,Monthly,205
+414,414,Female,23,Delhi,150.6,Music,2,Artist,Master,Friendship,Daily,29
+415,415,Other,53,Pune,151.3,Travel,1,Teacher,Diploma,Long-term Relationship,Daily,456
+416,416,Male,59,Pune,179.3,Books,1,Lawyer,PhD,Long-term Relationship,Daily,164
+417,417,Other,38,Pune,168.7,Books,1,Lawyer,Master,Friendship,Daily,298
+418,418,Female,47,Chennai,152.3,Movies,3,Doctor,Master,Marriage,Monthly,175
+419,419,Other,58,Ahmedabad,174,Movies,0,Data Analyst,Bachelor,Casual Dating,Rarely,89
+420,420,Male,21,Mumbai,178,Books,3,Freelancer,Diploma,Friendship,Monthly,302
+421,421,Female,31,Delhi,159.4,Sports,1,Engineer,High School,Friendship,Daily,145
+422,422,Other,26,Bangalore,160.8,Books,2,Artist,Master,Long-term Relationship,Weekly,290
+423,423,Female,19,Ahmedabad,165.1,Books,3,Engineer,Master,Long-term Relationship,Monthly,399
+424,424,Female,44,Hyderabad,157.5,Technology,0,Teacher,Bachelor,Long-term Relationship,Daily,11
+425,425,Male,51,Delhi,180.1,Music,1,Freelancer,Master,Friendship,Rarely,412
+426,426,Female,21,Indore,167.9,Sports,2,Artist,Bachelor,Casual Dating,Weekly,28
+427,427,Male,26,Indore,169,Movies,3,Data Analyst,Master,Long-term Relationship,Weekly,398
+428,428,Other,28,Jaipur,150.1,Travel,1,Lawyer,High School,Marriage,Monthly,89
+429,429,Female,52,Mumbai,184.5,Sports,0,Lawyer,High School,Friendship,Rarely,424
+430,430,Other,41,Delhi,179.8,Books,2,Engineer,PhD,Long-term Relationship,Daily,360
+431,431,Other,48,Chennai,156.8,Books,2,Student,Diploma,Friendship,Weekly,461
+432,432,Female,50,Chennai,175.2,Books,2,Data Scientist,Bachelor,Marriage,Rarely,206
+433,433,Other,23,Indore,187.7,Sports,0,Data Scientist,High School,Marriage,Daily,232
+434,434,Other,28,Hyderabad,189.5,Technology,0,Data Scientist,PhD,Marriage,Monthly,362
+435,435,Other,23,Jaipur,172.1,Books,3,Data Analyst,Bachelor,Casual Dating,Daily,382
+436,436,Other,54,Bangalore,150.5,Movies,0,Artist,Diploma,Marriage,Rarely,148
+437,437,Male,27,Jaipur,162,Travel,2,Engineer,Master,Casual Dating,Weekly,68
+438,438,Male,37,Lucknow,178.7,Sports,1,Freelancer,Master,Casual Dating,Monthly,418
+439,439,Other,19,Pune,172,Technology,3,Lawyer,Master,Casual Dating,Daily,175
+440,440,Female,34,Indore,159.8,Movies,0,Data Analyst,PhD,Long-term Relationship,Monthly,292
+441,441,Female,29,Mumbai,178,Travel,3,Data Scientist,High School,Friendship,Monthly,272
+442,442,Female,53,Indore,188.2,Travel,0,Data Analyst,Master,Friendship,Monthly,13
+443,443,Female,21,Kolkata,183.5,Movies,0,Student,High School,Casual Dating,Rarely,92
+444,444,Other,43,Kolkata,167.2,Movies,3,Doctor,High School,Casual Dating,Rarely,19
+445,445,Male,28,Indore,189.2,Books,0,Student,High School,Friendship,Weekly,246
+446,446,Female,45,Kolkata,159,Music,1,Lawyer,Master,Casual Dating,Daily,301
+447,447,Other,45,Chennai,162,Sports,2,Teacher,PhD,Marriage,Monthly,115
+448,448,Other,57,Ahmedabad,188.3,Technology,1,Student,Bachelor,Long-term Relationship,Daily,166
+449,449,Other,18,Mumbai,186.9,Books,3,Freelancer,High School,Friendship,Weekly,428
+450,450,Other,43,Lucknow,159.5,Movies,2,Engineer,High School,Friendship,Monthly,268
+451,451,Female,54,Jaipur,186.8,Music,3,Student,PhD,Marriage,Daily,318
+452,452,Other,56,Indore,154.4,Technology,3,Teacher,Diploma,Friendship,Daily,475
+453,453,Other,60,Pune,163.7,Technology,2,Student,Diploma,Marriage,Rarely,435
+454,454,Male,33,Mumbai,168.2,Travel,0,Doctor,Diploma,Long-term Relationship,Rarely,408
+455,455,Female,31,Pune,181.6,Technology,2,Artist,Bachelor,Long-term Relationship,Monthly,149
+456,456,Other,44,Kolkata,162.7,Books,2,Data Analyst,Master,Casual Dating,Daily,198
+457,457,Male,34,Kolkata,166.3,Sports,1,Data Analyst,Master,Friendship,Monthly,269
+458,458,Female,33,Pune,151.8,Books,2,Data Scientist,PhD,Casual Dating,Rarely,357
+459,459,Male,36,Mumbai,167.9,Books,0,Artist,High School,Casual Dating,Daily,97
+460,460,Female,58,Mumbai,167,Music,3,Doctor,Diploma,Marriage,Rarely,496
+461,461,Male,50,Jaipur,166,Sports,0,Student,PhD,Friendship,Rarely,252
+462,462,Male,43,Indore,175,Books,2,Lawyer,PhD,Marriage,Monthly,443
+463,463,Male,24,Mumbai,180.2,Technology,1,Data Analyst,PhD,Friendship,Rarely,228
+464,464,Other,38,Ahmedabad,159.2,Music,0,Lawyer,PhD,Long-term Relationship,Rarely,481
+465,465,Other,32,Lucknow,180.7,Books,3,Artist,High School,Long-term Relationship,Daily,416
+466,466,Other,50,Indore,178.7,Travel,1,Businessman,Bachelor,Friendship,Rarely,232
+467,467,Male,57,Mumbai,178.5,Technology,0,Lawyer,PhD,Marriage,Weekly,383
+468,468,Female,48,Mumbai,158.6,Travel,0,Artist,Diploma,Marriage,Monthly,148
+469,469,Male,22,Chennai,168.9,Books,2,Data Analyst,Master,Long-term Relationship,Monthly,329
+470,470,Male,49,Hyderabad,178.5,Travel,1,Data Analyst,Diploma,Marriage,Daily,77
+471,471,Other,28,Hyderabad,179,Sports,3,Lawyer,PhD,Marriage,Daily,152
+472,472,Male,60,Indore,165.8,Sports,2,Doctor,High School,Casual Dating,Monthly,147
+473,473,Female,38,Mumbai,159.3,Travel,1,Student,Master,Friendship,Rarely,35
+474,474,Other,51,Bangalore,167.4,Sports,0,Engineer,Diploma,Marriage,Weekly,141
+475,475,Female,45,Jaipur,188.1,Music,0,Data Analyst,PhD,Friendship,Rarely,42
+476,476,Other,58,Lucknow,159.7,Movies,3,Artist,PhD,Long-term Relationship,Weekly,24
+477,477,Female,39,Hyderabad,169,Movies,1,Teacher,PhD,Friendship,Monthly,96
+478,478,Other,58,Hyderabad,162,Movies,3,Freelancer,Master,Casual Dating,Rarely,425
+479,479,Female,38,Jaipur,182.5,Books,0,Data Analyst,Master,Marriage,Rarely,211
+480,480,Female,45,Ahmedabad,186.2,Travel,3,Lawyer,Bachelor,Friendship,Daily,245
+481,481,Female,44,Chennai,164.1,Movies,0,Data Analyst,Diploma,Long-term Relationship,Weekly,25
+482,482,Other,32,Kolkata,157.8,Travel,3,Artist,High School,Marriage,Rarely,14
+483,483,Other,58,Kolkata,178.4,Movies,0,Data Scientist,High School,Marriage,Monthly,23
+484,484,Male,43,Kolkata,179.3,Books,3,Freelancer,High School,Casual Dating,Weekly,227
+485,485,Female,38,Hyderabad,151.3,Music,1,Doctor,High School,Friendship,Rarely,145
+486,486,Other,29,Chennai,162.8,Music,3,Businessman,Bachelor,Casual Dating,Daily,291
+487,487,Other,24,Jaipur,189.2,Movies,3,Artist,High School,Casual Dating,Monthly,158
+488,488,Other,23,Pune,150.3,Books,0,Freelancer,Diploma,Marriage,Rarely,399
+489,489,Other,19,Ahmedabad,180.3,Travel,1,Data Scientist,Bachelor,Long-term Relationship,Rarely,410
+490,490,Male,36,Chennai,156.3,Movies,2,Engineer,Master,Friendship,Rarely,18
+491,491,Female,59,Lucknow,188.5,Books,0,Engineer,High School,Marriage,Daily,167
+492,492,Other,32,Indore,169.2,Travel,0,Freelancer,Bachelor,Friendship,Weekly,401
+493,493,Female,45,Hyderabad,154.2,Music,3,Lawyer,Bachelor,Friendship,Rarely,159
+494,494,Female,25,Delhi,179.6,Technology,1,Data Scientist,PhD,Marriage,Monthly,431
+495,495,Female,51,Mumbai,152.2,Books,0,Data Scientist,High School,Friendship,Rarely,424
+496,496,Male,23,Bangalore,177.4,Sports,0,Artist,Master,Marriage,Daily,301
+497,497,Male,24,Kolkata,181.3,Sports,2,Engineer,Bachelor,Friendship,Weekly,352
+498,498,Other,38,Ahmedabad,156,Travel,2,Data Scientist,Master,Long-term Relationship,Daily,432
+499,499,Male,54,Mumbai,188.7,Sports,1,Freelancer,PhD,Marriage,Monthly,190
+500,500,Other,32,Ahmedabad,186.2,Books,2,Freelancer,Bachelor,Casual Dating,Monthly,306
